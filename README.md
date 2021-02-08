@@ -1,5 +1,5 @@
 # SecureVar
-in-memory variable encryption library, a library that helps you protecte sensitive information in your executable, by encrypting(XOR) variables to prevent memory editing. 
+in-memory variable encryption library, a library that helps you protect sensitive information in your executable, by encrypting(XOR) variables to prevent memory editing. 
 
 Features:
 - Encrypts variables in memory to make them invisible to memory editors
